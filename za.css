@@ -1,6 +1,6 @@
-/* za.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
+/* za.CSS 14 February 2022 by Faza Syiham */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
-/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 body{margin:0}
 .div{display:flex;flex-direction:column;flex-shrink:0}input{margin:0;font-size:15px;background:transparent}
